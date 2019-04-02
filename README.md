@@ -1,2 +1,2 @@
 # terminal-scape-sequences
-Simple init of escape sequences for terminal emulators in Haskell
+Simple escape sequences init for terminal emulators in Haskell
